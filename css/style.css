@@ -848,6 +848,6 @@ list-style: none;
   padding-top: 5px;
 }
 .footer-list ul li:hover{
-  color: blue;
+  color: black;
   transition: 0.5s;
 }
