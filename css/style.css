@@ -449,6 +449,9 @@ input[type="text"] {
 .choose-img ul li:hover{
   background-color: rgb(156, 129, 93);
 }
+.choose-img ul .active{
+  background-color: rgb(156, 129, 93);
+}
 /* ////////////////////section5-end///////////////////// */
 .sec6-parent{
   width: 100%;
