@@ -869,6 +869,6 @@ list-style: none;
   padding-top: 5px;
 }
 .footer-list ul li:hover{
-  color: black;
+  background-color: rgba(0, 0, 0, 0.7);
   transition: 0.5s;
 }
